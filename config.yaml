@@ -1,0 +1,6 @@
+app:
+  addr: 0.0.0.0:8080
+  mode: debug
+elastic:
+  url: http://127.0.0.1:9200
+  sniff: false
