@@ -1,3 +1,3 @@
 # go-es-location
 
-> gin + elasticsearch + ip2location
+> golang + gin + elasticsearch + ip2location
